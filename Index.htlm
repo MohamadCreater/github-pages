@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Computer Systems</title>
+		<style>
+			body{
+				margin: 0;
+				background-color: rgb(143, 177, 228);
+			}
+			.container {
+				width: 1000px;
+				margin: 1rem auto;
+				box-shadow: 0 0 2rem #888888;
+				padding: 20px;
+				height:90vh;
+				background-color: beige;
+			}
+			nav ul {
+				list-style: none;
+				padding: 0;
+			}
+			nav ul li {
+				display: inline-block;
+			}
+			nav ul li a {
+				padding: 10px;
+				background-color:white;
+				text-decoration: none;
+				border-radius: 2px;
+				margin: 0 5px;
+			}
+			
+			.websiteTitle {
+				font-size:19px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="container">	
+			<header>
+				<h1 class="websiteTitle"> Explanation of Computer Systems</h1>
+			</header>
+			
+			<nav>
+				<ul>
+					<li><a href="file:///C:/Users/m.salem/Desktop/Y7%20website/IndexTemplate.html">Home</a></li>
+					<li><a href="hardware.html">Internal and External Hardware</a></li>
+					<li><a href="gates.html">Logic Gates</a></li>
+					<li><a href="binary.html">Binary System</a></li>
+					
+				</ul>
+			</nav>
+			<hr>
+			
+			<main>
+				<h2>Welcome to my website</h2>
+				<img src="Whatsapp Profilbild face.jpeg" style="float:right;" width=150px>
+				<p>In this website you are going to learn the Internal and External Hardware, Logic gates, and Binary System. Have fun!
+		        <p>I made this website to learn people somen Computer Programms. Before i also didn't know
+					anything about Computer Programms (etc.). </p>
+					<p>My name is Mohamad Salem. I am 12 ¾ years old. I am studying at the School BSK
+						British School of Kuwait. Before I came to Kuwait. I lived in Austria. There I 
+						visited the school BG/BRG Kirchengass. I had fun, but here in Kuwait I also have fun
+						My hobbies are football and basketball. I am good at working on Computers.
+						When I grow up I want to be a Dentist.</p>
+             
+<h3>Contact details:</h3>
+				                              <p>Mohamad Salem</p>
+				                     <p>BSK British School of Kuwait</p>
+				                            <p>+43 67764656015</p>
+										<p> mohamadsalem.zw2012@outlook.com</p>
+			                        <p>Website created by Mohamad Salem</p>
+			
+										<main>	
+
+		</div> 
+		 
+	</body>
+</html>
